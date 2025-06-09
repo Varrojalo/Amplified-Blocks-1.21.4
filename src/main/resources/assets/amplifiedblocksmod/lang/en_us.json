@@ -1,0 +1,25 @@
+{
+  "itemGroup.amplifiedblocksmod": "Amplified Blocks Mod Tab",
+
+  "item.amplifiedblocksmod.mesh": "Mesh",
+  "item.amplifiedblocksmod.filter": "Filter",
+
+  "item.amplifiedblocksmod.raw_rubber": "Raw Rubber",
+
+  "item.amplifiedblocksmod.white_rubber": "White Rubber Ball",
+  "item.amplifiedblocksmod.orange_rubber": "Orange Rubber Ball",
+  "item.amplifiedblocksmod.magenta_rubber": "Magenta Rubber Ball",
+  "item.amplifiedblocksmod.light_blue_rubber": "Light Blue Rubber Ball",
+  "item.amplifiedblocksmod.yellow_rubber": "Yello Rubber Ball",
+  "item.amplifiedblocksmod.lime_rubber": "Lime Rubber Ball",
+  "item.amplifiedblocksmod.pink_rubber": "Pink Rubber Ball",
+  "item.amplifiedblocksmod.gray_rubber": "Gray Rubber Ball",
+  "item.amplifiedblocksmod.light_gray_rubber": "Light Gray Rubber Ball",
+  "item.amplifiedblocksmod.cyan_rubber": "Cyan Rubber Ball",
+  "item.amplifiedblocksmod.purple_rubber": "Purple Rubber Ball",
+  "item.amplifiedblocksmod.blue_rubber": "Blue Rubber Ball",
+  "item.amplifiedblocksmod.brown_rubber": "Brown Rubber Ball",
+  "item.amplifiedblocksmod.green_rubber": "Green Rubber Ball",
+  "item.amplifiedblocksmod.red_rubber": "Red Rubber Ball",
+  "item.amplifiedblocksmod.black_rubber": "Black Rubber Ball"
+}
